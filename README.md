@@ -5,7 +5,7 @@ This repository presents a computational geodynamics project focused on plume–
 The project investigates the interaction between mantle plumes and moving tectonic plates, with particular emphasis on the Indian plate and plume systems including the Kerguelen, Marion, and Reunion plumes. Numerical simulations are used to study mantle flow evolution, lithospheric deformation, craton stability, and thermo-mechanical mantle dynamics over geological timescales.
 
 <p align="center">
-  <img src="figures/Picture1.png" width="900"/>
+  <img src="figures/figures/ker_90-ezgif.com-video-to-gif-converter.gif" width="900"/>
 </p>
 
 The repository highlights:
