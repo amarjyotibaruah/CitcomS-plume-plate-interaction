@@ -11,6 +11,11 @@ The project investigates the interaction between mantle plumes and moving tecton
   <img src="figures/Crossection_kergulene_E20_ct-200_mp4_125v.gif" width="450"/>
 </p>
 
+<p align="center">
+  <img src="figures/Crossection_mariana_E20_ct-200_mp4.gif" width="450"/>
+</p>
+
+
 The repository highlights:
 - Mantle plume evolution
 - Plume–lithosphere interaction
