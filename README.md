@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c4b7e8b1-9f5f-4eb5-91d3-b546f783cf14
+
 # 🌋 CitcomS Plume–Plate Interaction Modeling
 
 This repository presents a computational geodynamics project focused on plume–plate interaction using the CitcomS geodynamic modeling framework.
